@@ -20,10 +20,10 @@ tag = ["About", "hobby", "Image"]
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  facebook = "username"
-  twitter = "username"
-  linkedin = "username"
-  instagram = "username" 
+  facebook = "https://www.facebook.com/neilalfred.salazar.3"
+  twitter = "https://twitter.com/neilalfred08"
+  linkedin = "https://www.linkedin.com/in/neil-alfred-salazar-50ba63268/"
+  instagram = "https://www.instagram.com/neilalfredsalazar/" 
 
 [[menu.main]]
     parent = "hobby"
