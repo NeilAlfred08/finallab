@@ -1,3 +1,4 @@
+baseURL = "https://polite-dune-093dc2900.3.azurestaticapps.net"
 DefaultContentLanguage = "en"
 title = "Beautiful Hugo"
 theme = "beautifulhugo"
