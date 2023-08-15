@@ -6,7 +6,7 @@ icon = "fas fa-envelope"
 
 [[social_icons]]
 id = "facebook"
-url = "https://www.facebook.com/%s"
+url = "https://www.facebook.com/neilalfred.salazar.3"
 title = "Facebook"
 icon = "fab fa-facebook"
 
@@ -30,7 +30,7 @@ icon = "fab fa-bitbucket"
 
 [[social_icons]]
 id = "twitter"
-url = "https://twitter.com/%s"
+url = "https://twitter.com/neilalfred08"
 title = "Twitter"
 icon = "fab fa-twitter"
 
@@ -48,7 +48,7 @@ icon = "fab fa-reddit-alien"
 
 [[social_icons]]
 id = "linkedin"
-url = "https://linkedin.com/in/%s"
+url = "https://www.linkedin.com/in/neil-alfred-salazar-50ba63268/"
 title = "LinkedIn"
 icon = "fab fa-linkedin"
 
@@ -72,7 +72,7 @@ icon = "fab fa-snapchat-ghost"
 
 [[social_icons]]
 id = "instagram"
-url = "https://www.instagram.com/%s"
+url = "https://www.instagram.com/neilalfredsalazar/"
 title = "Instagram"
 icon = "fab fa-instagram"
 
