@@ -1,0 +1,38 @@
+DefaultContentLanguage = "en"
+title = "Beautiful Hugo"
+theme = "beautifulhugo"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+tag = ["About", "hobby", "Image"]
+
+[Params]
+#  homeTitle = "Beautiful Hugo Theme"
+  subtitle = "Simple Information About Myself"
+  logo = "img/NIcon.png"
+
+[Author]
+  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+  facebook = "username"
+  twitter = "username"
+  linkedin = "username"
+  instagram = "username" 
+
+[[menu.main]]
+    parent = "hobby"
+    name = "My Hobbies"
+    url = "posts/hobby"
+    weight = 1
+
+[[menu.main]]
+    parent = "projects"
+    name = "Projects"
+    url = "posts/image"
+    weight = 1
+
